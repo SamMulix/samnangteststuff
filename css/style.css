@@ -174,12 +174,7 @@
 .upcom-button {
     margin: 12% 10% 0 13%;
 }
-.control-prev {
-  margin-left: -180px;
-}
-.control-next {
-  margin-right: -180px;
-}
+
 .upcoming-intro {
   padding-bottom: 5%;
 }
